@@ -9,6 +9,12 @@ verify_ssl = true
 django = "*"
 python-decouple = "*"
 djangorestframework = "*"
+django-rest-auth = "*"
+django-allauth = "*"
+pusher = "*"
+django-cors-headers = "*"
+django-heroku = "*"
+django-rest-api = "*"
 
 [requires]
 python_version = "3.7"
